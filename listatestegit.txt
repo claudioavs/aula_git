@@ -1,2 +1,11 @@
 vamos fazer o teste novamente, 
 22:21 hrs
+faça modificação
+primeiro status
+depois git add (nome da pasta)
+depois git commit -m " add nome de sua mudança"
+depois git statuts
+depois push
+
+confira ver se der certo
+ 
